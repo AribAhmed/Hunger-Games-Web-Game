@@ -1,6 +1,6 @@
 /* Firebase Web App configuration for hunger-games-1f090. */
 window.DS_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyAxZN6CF4WgwDsvC9UHn4GtvHmcR-dgdHw",
+  apiKey: ,
   authDomain: "hunger-games-1f090.firebaseapp.com",
   databaseURL: "https://hunger-games-1f090-default-rtdb.firebaseio.com",
   projectId: "hunger-games-1f090",
